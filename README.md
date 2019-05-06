@@ -11,3 +11,7 @@ Links interessantes sobre chatbots
 - [Gestão de chatbots: 4 melhorias para fazer no chatbot da sua empresa](https://take.net/blog/chatbots/gestao-de-chatbots-melhorias-chatbot/)
 - [Chatbot: plataforma e aplicações](https://www.globalbot.com.br/chatbot)
 - [Conceitos que você deve conhecer para criar chatbots utilizando ferramentas online](https://imasters.com.br/desenvolvimento/conceitos-que-voce-deve-conhecer-para-criar-chatbots-utilizando-ferramentas-online)
+
+## Trabalhos de conclusão de curso
+
+- Mauro Carvolho [Eva: desenvolvimento de um chatbot para a escola virtual do governo](./TCC/MAURO_DE_CARVALHO_GONCALVES.pdf)
